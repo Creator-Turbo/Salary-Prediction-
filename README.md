@@ -1,6 +1,6 @@
-# Salary Prediction
+# Salary Prediction (ML)
 
-### Table of Contents
+### Table of Contents        
 - [Demo](#demo)
 - [Overview](#overview)
 - [Motivation](#motivation)
